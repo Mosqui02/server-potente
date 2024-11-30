@@ -430,3 +430,8 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [09:54:18] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
 [09:54:18] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
 [09:54:20] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[10:02:12] [Server thread/INFO]: juanchopepito has completed the challenge [Hot Tourist Destinations]
+[10:04:17] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[10:04:27] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[10:07:04] [Server thread/INFO]: juanchopepito has made the advancement [Hidden in the Depths]
+[10:07:05] [Server thread/INFO]: Mosqui has made the advancement [Hidden in the Depths]
