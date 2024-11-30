@@ -5,6 +5,8 @@ homes:
 - portallava
 - bastiom
 - loencontre
+- aldea2
+- aldea3
 aldea1:
   world: world
   x: 847
@@ -35,3 +37,13 @@ loencontre:
   x: 1071
   y: 53
   z: -583
+aldea2:
+  world: world
+  x: 745
+  y: 76
+  z: -866
+aldea3:
+  world: world
+  x: 219
+  y: 90
+  z: -1406

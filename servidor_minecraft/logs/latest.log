@@ -400,3 +400,11 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [08:57:54] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
 [08:57:56] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
 [08:58:35] [Server thread/INFO]: juanchopepito has made the advancement [War Pigs]
+[09:00:32] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:00:36] [Server thread/INFO]: Mosqui issued server command: /home
+[09:04:58] [Server thread/INFO]: Mosqui has made the advancement [Suit Up]
+[09:07:47] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:07:58] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[09:08:03] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[09:08:26] [Server thread/WARN]: Acacia Boat (vehicle of juanchopepito) moved wrongly! 0.25801591060667306
+[09:10:02] [Server thread/INFO]: juanchopepito issued server command: /home
