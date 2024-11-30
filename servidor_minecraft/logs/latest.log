@@ -493,3 +493,4 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [10:58:49] [Server thread/INFO]: Mosqui issued server command: /home
 [10:59:46] [Server thread/INFO]: Mosqui fell from a high place
 [10:59:52] [Server thread/INFO]: Mosqui issued server command: /home
+[11:08:14] [Server thread/INFO]: Mosqui has made the advancement [The City at the End of the Game]
