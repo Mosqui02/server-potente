@@ -442,3 +442,25 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [10:19:08] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
 [10:20:54] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
 [10:20:55] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[10:24:02] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[10:24:42] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[10:24:46] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[10:25:07] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[10:25:09] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[10:26:13] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:27:06] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:27:19] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:27:44] [Server thread/INFO]: Mosqui has completed the challenge [Hot Tourist Destinations]
+[10:28:19] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:28:25] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:29:30] [Server thread/INFO]: Villager Villager['Villager'/34509, uuid='ac5fc382-c2c5-48eb-9d5b-f0c50a7fed12', l='ServerLevel[world]', x=147.69, y=106.00, z=-1379.69, cpos=[9, -87], tl=3970, v=true] died, message: 'Villager was slain by Zombie'
+[10:29:54] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:31:20] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:34:29] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[10:34:32] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[10:36:56] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:39:11] [Server thread/INFO]: Mosqui issued server command: /home
+[10:39:18] [Server thread/INFO]: Mosqui issued server command: /home
+[10:40:59] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:41:02] [Server thread/INFO]: Mosqui issued server command: /home
+[10:41:49] [Server thread/INFO]: Mosqui issued server command: /home
