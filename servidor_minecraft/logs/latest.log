@@ -384,3 +384,10 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [08:18:30] [Server thread/INFO]: Mosqui has made the advancement [Ice Bucket Challenge]
 [08:18:35] [Server thread/INFO]: Mosqui has made the advancement [Who is Cutting Onions?]
 [08:23:08] [Server thread/INFO]: Mosqui has made the advancement [Take Aim]
+[08:31:13] [Server thread/INFO]: juanchopepito has completed the challenge [Return to Sender]
+[08:33:08] [Server thread/INFO]: juanchopepito has made the advancement [A Terrible Fortress]
+[08:33:09] [Server thread/INFO]: Mosqui has made the advancement [A Terrible Fortress]
+[08:33:21] [Server thread/INFO]: Mosqui issued server command: /home
+[08:33:22] [Server thread/INFO]: juanchopepito issued server command: /home
+[08:38:07] [Server thread/INFO]: Mosqui has made the advancement [Into Fire]
+[08:38:11] [Server thread/INFO]: juanchopepito has made the advancement [Into Fire]

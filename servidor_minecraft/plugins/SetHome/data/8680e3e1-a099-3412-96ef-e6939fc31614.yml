@@ -4,6 +4,7 @@ homes:
 - lavalake
 - portallava
 - bastiom
+- loencontre
 aldea1:
   world: world
   x: 847
@@ -29,3 +30,8 @@ bastiom:
   x: 131
   y: 53
   z: -235
+loencontre:
+  world: world_nether
+  x: 1071
+  y: 53
+  z: -583
