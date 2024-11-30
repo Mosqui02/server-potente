@@ -10,6 +10,7 @@ homes:
 - warden
 - endportal
 - end
+- portalend1
 aldea1:
   world: world
   x: 847
@@ -65,3 +66,8 @@ end:
   x: 1
   y: 61
   z: -44
+portalend1:
+  world: world_the_end
+  x: -812
+  y: 63
+  z: -647
