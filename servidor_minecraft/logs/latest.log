@@ -435,3 +435,10 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [10:04:27] [Server thread/INFO]: Mosqui issued server command: /tpaccept
 [10:07:04] [Server thread/INFO]: juanchopepito has made the advancement [Hidden in the Depths]
 [10:07:05] [Server thread/INFO]: Mosqui has made the advancement [Hidden in the Depths]
+[10:15:39] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[10:15:42] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[10:18:55] [Server thread/INFO]: Mosqui was slain by Piglin Brute
+[10:19:06] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[10:19:08] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[10:20:54] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[10:20:55] [Server thread/INFO]: Mosqui issued server command: /tpaccept
