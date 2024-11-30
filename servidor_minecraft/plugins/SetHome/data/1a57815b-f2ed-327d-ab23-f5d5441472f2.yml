@@ -1,0 +1,7 @@
+homes:
+- aldea
+aldea:
+  world: world
+  x: 833
+  y: 75
+  z: -396

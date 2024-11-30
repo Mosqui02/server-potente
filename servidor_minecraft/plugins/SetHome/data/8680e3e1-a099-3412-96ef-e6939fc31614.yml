@@ -1,7 +1,19 @@
 homes:
 - aldea1
+- tiralchamber
+- lavalake
 aldea1:
   world: world
   x: 847
   y: 73
   z: -447
+tiralchamber:
+  world: world
+  x: 831
+  y: -12
+  z: -412
+lavalake:
+  world: world
+  x: 788
+  y: -50
+  z: -331

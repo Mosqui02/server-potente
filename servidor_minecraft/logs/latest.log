@@ -342,3 +342,15 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [06:47:21] [Server thread/INFO]: juanchopepito issued server command: /home
 [06:47:32] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
 [06:47:35] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[06:48:28] [Server thread/INFO]: Mosqui has made the advancement [Stone Age]
+[06:49:02] [Server thread/INFO]: Mosqui issued server command: /skills
+[06:49:44] [Server thread/INFO]: Villager Villager['Farmer'/639, uuid='708172eb-365e-4403-989f-ebf56f4dcfec', l='ServerLevel[world]', x=797.30, y=37.42, z=-444.13, cpos=[49, -28], tl=45424, v=true] died, message: 'Farmer was slain by Zombie'
+[06:50:31] [Server thread/INFO]: Mosqui issued server command: /home
+[06:51:46] [Server thread/INFO]: Mosqui has made the advancement [What a Deal!]
+[06:53:25] [Server thread/INFO]: Mosqui has made the advancement [Acquire Hardware]
+[06:53:43] [Server thread/INFO]: Mosqui has made the advancement [Isn't It Iron Pick]
+[06:57:27] [Server thread/INFO]: Mosqui has made the advancement [Sweet Dreams]
+[06:57:35] [Server thread/INFO]: Mosqui has made the advancement [Monster Hunter]
+[06:59:07] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:07:42] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:07:51] [Server thread/INFO]: juanchopepito issued server command: /home
