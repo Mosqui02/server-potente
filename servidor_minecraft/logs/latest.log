@@ -364,3 +364,15 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [07:33:48] [Server thread/INFO]: Mosqui issued server command: /home
 [07:38:10] [Server thread/INFO]: Mosqui has made the advancement [Diamonds!]
 [07:39:46] [Server thread/INFO]: Mosqui has made the advancement [Cover Me with Diamonds]
+[07:41:50] [Server thread/INFO]: juanchopepito issued server command: /homw
+[07:41:54] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:42:04] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:42:21] [Server thread/INFO]: Mosqui issued server command: /tpa
+[07:42:24] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[07:42:25] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[07:44:28] [Server thread/INFO]: Mosqui has made the advancement [We Need to Go Deeper]
+[07:44:28] [Server thread/INFO]: juanchopepito has made the advancement [We Need to Go Deeper]
+[07:45:02] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:45:04] [Server thread/INFO]: Mosqui issued server command: /home
+[07:49:42] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:49:44] [Server thread/INFO]: Mosqui has made the advancement [Those Were the Days]

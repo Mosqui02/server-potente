@@ -2,6 +2,8 @@ homes:
 - aldea1
 - tiralchamber
 - lavalake
+- portallava
+- bastiom
 aldea1:
   world: world
   x: 847
@@ -17,3 +19,13 @@ lavalake:
   x: 788
   y: -50
   z: -331
+portallava:
+  world: world_nether
+  x: 90
+  y: 40
+  z: -54
+bastiom:
+  world: world_nether
+  x: 131
+  y: 53
+  z: -235

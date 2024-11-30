@@ -1,7 +1,13 @@
 homes:
 - aldea
+- portal
 aldea:
   world: world
   x: 833
   y: 75
   z: -396
+portal:
+  world: world_nether
+  x: 88
+  y: 42
+  z: -55
