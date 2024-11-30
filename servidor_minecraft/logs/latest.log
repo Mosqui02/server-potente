@@ -297,3 +297,9 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [23:04:47] [Server thread/INFO]: Villager Villager['Farmer'/13114, uuid='8e139be5-e820-4e91-be45-e9a43d76b660', l='ServerLevel[world]', x=-12803.37, y=66.00, z=8290.49, cpos=[-801, 518], tl=17120, v=true] died, message: 'Farmer was blown up by Creeper'
 [23:12:12] [Server thread/INFO]: Micropene has made the advancement [A Seedy Place]
 [23:15:50] [Server thread/INFO]: Villager Villager['Villager'/13153, uuid='b6599582-04ed-4bbe-807c-a252a247c53d', l='ServerLevel[world]', x=-12827.53, y=74.00, z=8312.04, cpos=[-802, 519], tl=30377, v=true] died, message: 'Villager was slain by Zombie'
+[23:42:06] [Server thread/INFO]: Micropene lost connection: Disconnected
+[23:42:06] [Server thread/INFO]: Micropene left the game
+[23:43:45] [User Authenticator #2/INFO]: UUID of player Micropene is 4f587275-ce29-3e14-a1a5-57b9ea39f989
+[23:43:46] [Server thread/INFO]: Micropene joined the game
+[23:43:46] [Server thread/INFO]: Micropene[/127.72.44.249:37511] logged in with entity id 21349 at ([world]-12785.661591103953, 63.0, 8240.249192749892)
+[23:44:12] [Server thread/INFO]: Micropene issued server command: /home
