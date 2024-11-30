@@ -303,3 +303,10 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [23:43:46] [Server thread/INFO]: Micropene joined the game
 [23:43:46] [Server thread/INFO]: Micropene[/127.72.44.249:37511] logged in with entity id 21349 at ([world]-12785.661591103953, 63.0, 8240.249192749892)
 [23:44:12] [Server thread/INFO]: Micropene issued server command: /home
+[23:52:56] [Server thread/INFO]: Micropene lost connection: Disconnected
+[23:52:56] [Server thread/INFO]: Micropene left the game
+[23:53:29] [User Authenticator #3/INFO]: UUID of player Micropene is 4f587275-ce29-3e14-a1a5-57b9ea39f989
+[23:53:30] [Server thread/INFO]: Micropene joined the game
+[23:53:30] [Server thread/INFO]: Micropene[/127.72.44.249:50283] logged in with entity id 23852 at ([world]-12311.86667614436, 87.0, 8225.070533311893)
+[23:54:17] [Server thread/INFO]: Micropene lost connection: Disconnected
+[23:54:17] [Server thread/INFO]: Micropene left the game
