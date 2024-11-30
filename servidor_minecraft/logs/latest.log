@@ -464,3 +464,21 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [10:40:59] [Server thread/INFO]: juanchopepito issued server command: /home
 [10:41:02] [Server thread/INFO]: Mosqui issued server command: /home
 [10:41:49] [Server thread/INFO]: Mosqui issued server command: /home
+[10:42:04] [Server thread/INFO]: Mosqui issued server command: /home
+[10:44:01] [Server thread/INFO]: Mosqui issued server command: /home
+[10:44:43] [Server thread/INFO]: Mosqui has made the advancement [The End?]
+[10:44:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[10:44:44] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[10:44:44] [Server thread/INFO]: juanchopepito has made the advancement [The End?]
+[10:47:22] [Server thread/INFO]: Mosqui was doomed to fall by Ender Dragon
+[10:47:27] [Server thread/INFO]: Mosqui issued server command: /home
+[10:47:50] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[10:47:53] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[10:49:42] [Server thread/INFO]: Mosqui was doomed to fall by Ender Dragon
+[10:49:45] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[10:49:48] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[10:50:12] [Server thread/INFO]: juanchopepito has made the advancement [Free the End]
+[10:51:23] [Server thread/INFO]: Mosqui has reached the goal [The Next Generation]
+[10:51:33] [Server thread/INFO]: juanchopepito has reached the goal [The Next Generation]
+[10:51:50] [Server thread/INFO]: juanchopepito issued server command: /home
+[10:51:54] [Server thread/INFO]: Mosqui issued server command: /home

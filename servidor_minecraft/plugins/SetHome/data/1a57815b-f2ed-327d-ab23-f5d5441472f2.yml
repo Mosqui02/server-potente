@@ -3,6 +3,7 @@ homes:
 - portal
 - fortaleza
 - portal end
+- portal end volver
 aldea:
   world: world
   x: 833
@@ -23,3 +24,8 @@ portal end:
   x: 226
   y: 3
   z: -1912
+portal end volver:
+  world: world_the_end
+  x: -5
+  y: 64
+  z: -3
