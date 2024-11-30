@@ -391,3 +391,4 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [08:33:22] [Server thread/INFO]: juanchopepito issued server command: /home
 [08:38:07] [Server thread/INFO]: Mosqui has made the advancement [Into Fire]
 [08:38:11] [Server thread/INFO]: juanchopepito has made the advancement [Into Fire]
+[08:47:24] [Server thread/INFO]: juanchopepito issued server command: /home
