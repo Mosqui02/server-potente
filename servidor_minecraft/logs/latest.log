@@ -290,3 +290,6 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [22:21:25] [Server thread/INFO]: Micropene[/127.72.44.249:58233] logged in with entity id 360 at ([world]-10739.139655935156, 61.46100492608108, 5951.871450885555)
 [22:21:37] [Server thread/INFO]: Micropene issued server command: /home
 [22:21:57] [Server thread/INFO]: Micropene issued server command: /home
+[22:44:55] [Server thread/INFO]: Micropene issued server command: /home
+[22:45:17] [Server thread/INFO]: Micropene issued server command: /hoome
+[22:45:20] [Server thread/INFO]: Micropene issued server command: /home

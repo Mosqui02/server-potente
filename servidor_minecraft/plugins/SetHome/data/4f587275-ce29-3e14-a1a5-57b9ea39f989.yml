@@ -1,6 +1,7 @@
 homes:
 - pepe
 - punto
+- aldeades
 pepe:
   world: world
   x: -9357
@@ -11,3 +12,8 @@ punto:
   x: -10720
   y: 69
   z: 5907
+aldeades:
+  world: world
+  x: -11928
+  y: 89
+  z: 7722

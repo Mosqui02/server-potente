@@ -2,13 +2,13 @@ uuid: 4f587275-ce29-3e14-a1a5-57b9ea39f989
 skills:
   auraskills/foraging:
     level: 0
-    xp: 45.599999999999966
+    xp: 47.99999999999996
   auraskills/farming:
     level: 1
-    xp: 58.2
+    xp: 61.900000000000006
   auraskills/defense:
-    level: 0
-    xp: 94.0
+    level: 1
+    xp: 32.0
   auraskills/mining:
     level: 3
     xp: 82.79000000000036
@@ -20,10 +20,10 @@ skills:
     xp: 0.0
   auraskills/fighting:
     level: 1
-    xp: 150.0
+    xp: 183.0
   auraskills/agility:
     level: 3
-    xp: 557.0394000000001
+    xp: 851.4796000000002
   auraskills/excavation:
     level: 0
     xp: 1.4
