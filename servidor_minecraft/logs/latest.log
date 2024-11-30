@@ -296,3 +296,4 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [23:04:08] [Server thread/INFO]: Micropene has made the advancement [Sweet Dreams]
 [23:04:47] [Server thread/INFO]: Villager Villager['Farmer'/13114, uuid='8e139be5-e820-4e91-be45-e9a43d76b660', l='ServerLevel[world]', x=-12803.37, y=66.00, z=8290.49, cpos=[-801, 518], tl=17120, v=true] died, message: 'Farmer was blown up by Creeper'
 [23:12:12] [Server thread/INFO]: Micropene has made the advancement [A Seedy Place]
+[23:15:50] [Server thread/INFO]: Villager Villager['Villager'/13153, uuid='b6599582-04ed-4bbe-807c-a252a247c53d', l='ServerLevel[world]', x=-12827.53, y=74.00, z=8312.04, cpos=[-802, 519], tl=30377, v=true] died, message: 'Villager was slain by Zombie'
