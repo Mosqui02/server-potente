@@ -7,6 +7,7 @@ homes:
 - loencontre
 - aldea2
 - aldea3
+- warden
 aldea1:
   world: world
   x: 847
@@ -47,3 +48,8 @@ aldea3:
   x: 219
   y: 90
   z: -1406
+warden:
+  world: world
+  x: 154
+  y: -8
+  z: -1770

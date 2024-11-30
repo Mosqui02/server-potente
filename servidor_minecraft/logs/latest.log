@@ -408,3 +408,8 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [09:08:03] [Server thread/INFO]: Mosqui issued server command: /tpaccept
 [09:08:26] [Server thread/WARN]: Acacia Boat (vehicle of juanchopepito) moved wrongly! 0.25801591060667306
 [09:10:02] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:31:24] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:33:54] [Server thread/INFO]: juanchopepito has made the advancement [Sneak 100]
+[09:34:25] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[09:34:28] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[09:40:48] [Server thread/INFO]: Mosqui has made the advancement [Eye Spy]
