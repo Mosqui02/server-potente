@@ -1,0 +1,13 @@
+homes:
+- pepe
+- punto
+pepe:
+  world: world
+  x: -9357
+  y: 63
+  z: 5679
+punto:
+  world: world
+  x: -10720
+  y: 69
+  z: 5907

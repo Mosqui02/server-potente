@@ -1,0 +1,7 @@
+homes:
+- prueba
+prueba:
+  world: world
+  x: -508
+  y: 35
+  z: 318
