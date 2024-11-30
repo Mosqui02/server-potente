@@ -360,3 +360,7 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [07:18:52] [Server thread/INFO]: Villager Villager['Cartographer'/722, uuid='728d81f3-29c2-47ec-9fc7-d9c441166aa4', l='ServerLevel[world]', x=778.06, y=67.75, z=-406.43, cpos=[48, -26], tl=83533, v=true] died, message: 'Cartographer was slain by Zombie'
 [07:25:50] [Server thread/INFO]: Villager Villager['Farmer'/710, uuid='14b70fbc-8cc0-4e1a-bedd-53e1d5ed63b7', l='ServerLevel[world]', x=865.13, y=69.08, z=-439.32, cpos=[54, -28], tl=92128, v=true] died, message: 'Farmer tried to swim in lava'
 [07:28:48] [Server thread/INFO]: [AngelChest] Removed 1 old log files.
+[07:33:36] [Server thread/INFO]: Mosqui issued server command: /home
+[07:33:48] [Server thread/INFO]: Mosqui issued server command: /home
+[07:38:10] [Server thread/INFO]: Mosqui has made the advancement [Diamonds!]
+[07:39:46] [Server thread/INFO]: Mosqui has made the advancement [Cover Me with Diamonds]
