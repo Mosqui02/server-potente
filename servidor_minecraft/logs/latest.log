@@ -354,3 +354,7 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [06:59:07] [Server thread/INFO]: juanchopepito issued server command: /home
 [07:07:42] [Server thread/INFO]: juanchopepito issued server command: /home
 [07:07:51] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:12:12] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:12:27] [Server thread/INFO]: juanchopepito issued server command: /home
+[07:15:59] [Server thread/INFO]: Mosqui has made the advancement [Hot Stuff]
+[07:18:52] [Server thread/INFO]: Villager Villager['Cartographer'/722, uuid='728d81f3-29c2-47ec-9fc7-d9c441166aa4', l='ServerLevel[world]', x=778.06, y=67.75, z=-406.43, cpos=[48, -26], tl=83533, v=true] died, message: 'Cartographer was slain by Zombie'
