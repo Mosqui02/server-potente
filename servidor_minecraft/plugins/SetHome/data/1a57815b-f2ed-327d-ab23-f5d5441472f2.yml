@@ -2,6 +2,7 @@ homes:
 - aldea
 - portal
 - fortaleza
+- portal end
 aldea:
   world: world
   x: 833
@@ -17,3 +18,8 @@ fortaleza:
   x: 1072
   y: 53
   z: -581
+portal end:
+  world: world
+  x: 226
+  y: 3
+  z: -1912

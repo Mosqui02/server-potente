@@ -413,3 +413,16 @@ Caused by: org.yaml.snakeyaml.parser.ParserException: expected '<document start>
 [09:34:25] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
 [09:34:28] [Server thread/INFO]: Mosqui issued server command: /tpaccept
 [09:40:48] [Server thread/INFO]: Mosqui has made the advancement [Eye Spy]
+[09:41:05] [Server thread/INFO]: juanchopepito has made the advancement [Eye Spy]
+[09:41:48] [Server thread/INFO]: Mosqui issued server command: /home
+[09:43:07] [Server thread/INFO]: juanchopepito issued server command: /tpa Mosqui
+[09:43:10] [Server thread/INFO]: Mosqui issued server command: /tpaccept
+[09:44:23] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:44:37] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:46:04] [Server thread/INFO]: juanchopepito issued server command: /home
+[09:48:20] [Server thread/INFO]: juanchopepito has made the advancement [Ol' Betsy]
+[09:50:43] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[09:50:45] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[09:50:54] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
+[09:50:58] [Server thread/INFO]: Mosqui issued server command: /tpa juanchopepito
+[09:51:00] [Server thread/INFO]: juanchopepito issued server command: /tpaccept
