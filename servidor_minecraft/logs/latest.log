@@ -2,3 +2,7 @@
 [00:04:22] [Server thread/INFO]: Micropene joined the game
 [00:04:22] [Server thread/INFO]: Micropene[/127.72.44.249:55477] logged in with entity id 23934 at ([world]94.59311972765069, 272.0, -7.6481710064166775)
 [00:04:56] [Server thread/INFO]: Micropene issued server command: /home
+[00:06:01] [Server thread/WARN]: Micropene moved too quickly! -6.442464149697116,-1.756759288177264,9.360037766320602
+[00:06:06] [Server thread/WARN]: Micropene moved too quickly! -9.765584623199175,1.7967356006687112,7.668848884638464
+[00:07:24] [Server thread/INFO]: Micropene was pricked to death
+[00:07:36] [Server thread/INFO]: Micropene issued server command: /home
