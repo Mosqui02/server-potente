@@ -6,3 +6,12 @@
 [00:06:06] [Server thread/WARN]: Micropene moved too quickly! -9.765584623199175,1.7967356006687112,7.668848884638464
 [00:07:24] [Server thread/INFO]: Micropene was pricked to death
 [00:07:36] [Server thread/INFO]: Micropene issued server command: /home
+[00:16:22] [User Authenticator #5/INFO]: UUID of player Marcosam3000 is 46179e3d-fbf3-34ff-b2cf-12fbd3ad9a5a
+[00:16:23] [Server thread/INFO]: Marcosam3000 joined the game
+[00:16:23] [Server thread/INFO]: Marcosam3000[/127.171.64.120:55511] logged in with entity id 28300 at ([world]-4796.807015651523, 64.33226489655115, 1422.8912671874302)
+[00:18:53] [Server thread/INFO]: Micropene issued server command: /home
+[00:19:11] [Server thread/INFO]: Marcosam3000 issued server command: /tpa Micropene
+[00:19:22] [Server thread/INFO]: Micropene issued server command: /accept
+[00:21:32] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
+[00:21:32] [Server thread/INFO]: Marcosam3000 left the game
+[00:25:02] [Server thread/INFO]: Micropene issued server command: /home

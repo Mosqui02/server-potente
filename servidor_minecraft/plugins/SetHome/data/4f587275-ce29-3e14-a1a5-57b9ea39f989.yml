@@ -2,6 +2,7 @@ homes:
 - pepe
 - punto
 - aldeades
+- casita
 pepe:
   world: world
   x: -9357
@@ -17,3 +18,8 @@ aldeades:
   x: -11928
   y: 89
   z: 7722
+casita:
+  world: world
+  x: -12800
+  y: 66
+  z: 8275
